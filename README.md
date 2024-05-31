@@ -61,7 +61,8 @@
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sian&layout=compact'>
  <a herf="https://solved.ac/profile/blindcote/", target="_blank">
 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=blindcote>
-</a
+
+</a>
 
 </div>
 
