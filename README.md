@@ -1,5 +1,5 @@
 <h3 align="center">  
-  Hello, I'm Sian Lee who is a backend developer and sales engineer.
+  Hello, I'm Sian Lee who is a backend developer and Technical engineer.
 </h3>
 <br>
 <p align="center">
@@ -8,7 +8,7 @@
   <br>
   🎓 University of Alabama (2019): Graduated with a Bachelor's degree in Mechanical Engineering
   <br>
- ✍POSCO AAPC (2020-2022): Worked as a Sales Engineer and Quality Controller in Posco, Alabama
+ ✍POSCO AAPC (2020-2022): Worked as a Technical Engineer and Quality Controller in Posco, Alabama
  <br>
   📖 University of Alabama: Pursuing studies in Pharmacy.
   <br>
